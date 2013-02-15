@@ -30,9 +30,16 @@ namespace WindowsFormsApplication1
             MessageBox.Show("hi");
 
             MessageBox.Show("hi1");
+
+            MessageBox.Show("bye");
         }
 
         private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
         {
 
         }
