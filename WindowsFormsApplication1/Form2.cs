@@ -32,6 +32,9 @@ namespace WindowsFormsApplication1
             MessageBox.Show("hi1");
 
             MessageBox.Show("bye");
+
+            MessageBox.Show("push");
+
         }
 
         private void button2_Click(object sender, EventArgs e)
